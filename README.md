@@ -6,8 +6,9 @@ Next.js es un framework para React que facilita el desarrollo de aplicaciones we
 
 No pude agregar Css al proyecto, el proximo paso es agregarle estilo a la pagina. 
 
-## Integrante
+## Integrante (Full stack )
 
 Omar Fuentes
+F
 
 www.linkedin.com/in/omar-fuentes-35a061259
